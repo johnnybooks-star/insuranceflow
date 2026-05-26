@@ -92,7 +92,7 @@ dotnet run --project InsuranceFlow.API
 ```
 
 Requires: .NET 8 SDK, AWS CLI configured with credentials.
-Full step-by-step guide with screenshots in **docs/InsuranceFlow_Documentation.docx**.
+Full step-by-step guide in **docs/InsuranceFlow_Documentation.docx**.
 
 ## Key Design Decisions
 
