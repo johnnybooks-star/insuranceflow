@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy:     #1E1E4B;
+  --navy2:    #2D2D6B;
+  --cyan:     #29ABE2;
+  --cyan2:    #5BC8E8;
+  --cyan-pale:#E8F7FD;
+  --border:   #DCE3F0;
+  --off:      #F4F6FB;
+  --gray:     #8892A4;
+  --text:     #1A1A2E;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: 'Raleway', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--off);
+}
+
+input, select, button {
+  font-family: 'Raleway', -apple-system, BlinkMacSystemFont, sans-serif;
+}
