@@ -105,6 +105,6 @@ Full step-by-step guide with screenshots in **docs/InsuranceFlow_Documentation.d
 
 ## Author
 
-John-Sebastian Mphuthi - Senior Software Developer  
-+27 82 829 9050 | JohnnyBooks@gmail.com | Morningside, Johannesburg  
+Sebastian Mphuthi - AWS Demo  
++27 82 829 9050 | JohnnyBooks@gmail.com  
 github.com/johnnybooks-star
